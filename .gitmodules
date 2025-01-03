@@ -1,0 +1,3 @@
+[submodule "text_extraction_pypdf2.py"]
+	path = text_extraction_pypdf2.py
+	url = https://github.com/cornibrus-ai/JSON-generator-with-PDF.git
